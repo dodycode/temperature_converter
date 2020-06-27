@@ -1,0 +1,25 @@
+.main{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+}
+
+.form-control{
+	width: 80%;
+}
+
+.form-control.input{
+	margin-bottom: 5px;
+}
+
+.form-input{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.equals{
+	font-size: 18px;
+}

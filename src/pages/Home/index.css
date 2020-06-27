@@ -1,0 +1,18 @@
+.container{
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	align-items: center;
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+p{
+	margin: 0;
+	font-size: 12px;
+	letter-spacing: 2px;
+}
